@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "first_name": "satyawan",
+    "last_name": "shinde",
+    "email": "satyawanshinde@gmail.com",
+    "gender": "Male",
+    "job_title": "Business Systems Development Analyst"
+  },
+  {
+    "id": 2,
+    "first_name": "sahil ",
+    "last_name": "patil",
+    "email": "sahilpatil@gmail.com",
+    "gender": "Male",
+    "job_title": "Account Executive"
+  },
+  {
+    "id": 3,
+    "first_name": "devya",
+    "last_name": "jdf",
+    "email": "dgh@gmail.com",
+    "gender": "male",
+    "job_title": "software developer"
+  },
+  {
+    "id": 4,
+    "first_name": "prajwal",
+    "last_name": "kale",
+    "email": "prajwalkale@gmail.com",
+    "gender": "male",
+    "job_title": "Analyst Programmer"
+  },
+  {
+    "id": 5,
+    "first_name": "yash",
+    "last_name": "pawar",
+    "email": "yashpawar@gmail.com",
+    "gender": "Male",
+    "job_title": "Design Engineer"
+  },
+  {
+    "id": 6,
+    "first_name": "Corty",
+    "last_name": "MacGilpatrick",
+    "email": "cmacgilpatrick6@t-online.de",
+    "gender": "Male",
+    "job_title": "Computer Systems Analyst IV"
+  },
+  {
+    "id": 7,
+    "first_name": "Kara-lynn",
+    "last_name": "kanse",
+    "email": "d@gmail.com",
+    "gender": "Female",
+    "job_title": "Nuclear Power Engineer"
+  },
+  {
+    "id": 8,
+    "first_name": "Josephina",
+    "last_name": "kadepawar",
+    "email": "de@gmail.com",
+    "gender": "male",
+    "job_title": "Assistant Manager"
+  },
+  {
+    "id": 9,
+    "first_name": "pranay",
+    "last_name": "nikam",
+    "email": "pranay@gmail.com",
+    "gender": "male",
+    "job_title": " Power Engineer"
+  },
+  {
+    "id": 10,
+    "first_name": "ruturaj",
+    "last_name": "dhotre",
+    "email": "ruturaj@gmail.com",
+    "gender": "Female",
+    "job_title": " Engineer"
+  },
+  {
+    "id": 11,
+    "first_name": "karan ",
+    "last_name": "jadhav",
+    "email": "karan@gmail.com",
+    "gender": "male",
+    "job_title": "software"
+  },
+  {
+    "id": 12,
+    "first_name": "sachin",
+    "last_name": "jadhav",
+    "email": "sachin@gmail.com",
+    "gender": "male",
+    "job_title": "network Engineer"
+  },
+  {
+    "id": 13,
+    "first_name": "saurabh",
+    "last_name": "jadhav",
+    "email": "saurav@gmail.com",
+    "gender": "male",
+    "job_title": "m Engineer"
+  },
+  {
+    "id": 14,
+    "first_name": "purav",
+    "last_name": "jha",
+    "email": "purav@gmail.com",
+    "gender": "male",
+    "job_title": "youtuber"
+  },
+  {
+    "id": 15,
+    "first_name": "rajat",
+    "last_name": "dalal",
+    "email": "rajat@gmail.com",
+    "gender": "male",
+    "job_title": "fitness trainer"
+  },
+  {
+    "id": 16,
+    "first_name": "akash",
+    "last_name": "bhangare",
+    "email": "akash@gmail.com",
+    "gender": "male",
+    "job_title": "ca Engineer"
+  },
+  {
+    "id": 17,
+    "first_name": "Kara",
+    "last_name": "kanse",
+    "email": "k@gmail.com",
+    "gender": "Female",
+    "job_title": " Power "
+  },
+  {
+    "id": 18,
+    "first_name": "lynn",
+    "last_name": "nse",
+    "email": "l@gmail.com",
+    "gender": "Female",
+    "job_title": "Nuclear Power"
+  },
+  {
+    "id": 19,
+    "first_name": "shubham",
+    "last_name": "pawar",
+    "email": "shubham@gmail.com",
+    "gender": "male",
+    "job_title": "vi "
+  },
+  {
+    "id": 20,
+    "first_name": "monter",
+    "last_name": "rosa",
+    "email": "f@gmail.com",
+    "gender": "male",
+    "job_title": "Nuclear ppp"
+  },
+  {
+    "id": 21,
+    "first_name": "rajesh",
+    "last_name": "chate",
+    "email": "rajesh@gmail.com",
+    "gender": "male",
+    "job_title": "mechanical"
+  },
+  {
+    "id": 22,
+    "first_name": "sachin",
+    "last_name": "misal",
+    "email": "sachin@gmail.com",
+    "gender": "male",
+    "job_title": "civil engineer"
+  },
+  {
+    "id": 23,
+    "first_name": "ganesh",
+    "last_name": "ubhe",
+    "email": "ganesh@gmail.com",
+    "gender": "male",
+    "job_title": "mechanic Engineer"
+  },
+  {
+    "id": 24,
+    "first_name": "ashitosh",
+    "last_name": "pachangre",
+    "email": "ashitosh@gmail.com",
+    "gender": "male",
+    "job_title": "computer Engineer"
+  },
+  {
+    "id": 25,
+    "first_name": "shivdarshan",
+    "last_name": "biradar",
+    "email": "shivdarshan@gmail.com",
+    "gender": "male",
+    "job_title": "civil Engineer"
+  },
+  
+  {
+    "id": 26,
+    "first_name": "rohit",
+    "last_name": "sarode",
+    "email": "rohit@gmail.com",
+    "gender": "male",
+    "job_title": "java dveloper"
+  },
+  {
+    "id": 27,
+    "first_name": "sanket",
+    "last_name": "jadhav",
+    "email": "sanket@gmail.com",
+    "gender": "male",
+    "job_title": "pharmacy Engineer"
+  },
+  {
+    "id": 28,
+    "first_name": "rohan",
+    "last_name": "takle",
+    "email": "rohan@gmail.com",
+    "gender": "male",
+    "job_title": "mechanical Enginner"
+  },
+  {
+    "id": 29,
+    "first_name": "pratik",
+    "last_name": "chavan",
+    "email": "pratik@gmail.com",
+    "gender": "male",
+    "job_title": "chef"
+  },
+  {
+    "id": 30,
+    "first_name": "abhishek",
+    "last_name": "jb",
+    "email": "abhishek@gmail.com",
+    "gender": "male",
+    "job_title": "kuch bhi"
+  },
+  {
+    "id": 31,
+    "first_name": "akash",
+    "last_name": "barne",
+    "email": "akash@gmail.com",
+    "gender": "male",
+    "job_title": "builder"
+  },
+  {
+    "id": 32,
+    "first_name": "vasudev",
+    "last_name": "gavare",
+    "email": "vasudev@gmail.com",
+    "gender": "male",
+    "job_title": "builder"
+  },
+  {
+    "id": 33,
+    "first_name": "abhishek",
+    "last_name": "dashrath",
+    "email": "abhishek@gmail.com",
+    "gender": "male",
+    "job_title": "Engineer"
+  },
+  {
+    "id": 34,
+    "first_name": "vijay",
+    "last_name": "metre",
+    "email": "vijay@gmail.com",
+    "gender": "male",
+    "job_title": "dksdkj"
+  },
+  {
+    "id": 35,
+    "first_name": "abhishek",
+    "last_name": "bahirat",
+    "email": "abhishek@gmail.com",
+    "gender": "male",
+    "job_title": "Nuclear ngineer"
+  },
+  {
+    "id": 36,
+    "first_name": "dfg",
+    "last_name": "kangfgdfse",
+    "email": "dfgfg@gmail.com",
+    "gender": "male",
+    "job_title": "Nuclear fgdfgPower Engineer"
+  },
+  {
+    "id": 37,
+    "first_name": "Kara-fgflynn",
+    "last_name": "kanfggfse",
+    "email": "dff@gmail.com",
+    "gender": "male",
+    "job_title": "Nucfgdflear Power Engineer"
+  },
+  {
+    "id": 38,
+    "first_name": "Kadfsdra-lynn",
+    "last_name": "kandfsdgfse",
+    "email": "dsdfgd@gmail.com",
+    "gender": "male",
+    "job_title": "Nuclear Posdfsdwer Engineer"
+  },
+  {
+    "id": 39,
+    "first_name": "Kara-l",
+    "last_name": "kans",
+    "email": "dfgfdgsdfsz@gmail.com",
+    "gender": "male",
+    "job_title": "Nuclear Pwer Engineer"
+  },
+  {
+    "id": 40,
+    "first_name": "ra-lynn",
+    "last_name": "knse",
+    "email": "fgklh@gmail.com",
+    "gender": "Female",
+    "job_title": "Nucfffear Power Engineer"
+  },
+  {
+    "id": 41,
+    "first_name": "myra-lynn",
+    "last_name": "dfjih",
+    "email": "myra@gmail.com",
+    "gender": "Female",
+    "job_title": "Nucdfsdlear Power Engineer"
+  },
+  {
+    "id": 42,
+    "first_name": "Kargfga-lynn",
+    "last_name": "kfgfganse",
+    "email": "ddfdfgfg@gmail.com",
+    "gender": "male",
+    "job_title": "Nuclearfdfg Power Engineer"
+  },
+  {
+    "id": 43,
+    "first_name": "sharad",
+    "last_name": "dubukwad",
+    "email": "sharad@gmail.com",
+    "gender": "male",
+    "job_title": "Nucleardfsf Power Engineer"
+  },
+  {
+    "id": 44,
+    "first_name": "Karadfd-lynn",
+    "last_name": "kghdfhanse",
+    "email": "dfdfdf@gmail.com",
+    "gender": "Fesdfmale",
+    "job_title": "Nucdfszdflear Power Engineer"
+  },
+  {
+    "id": 45,
+    "first_name": "Karaasfdasfs-lynn",
+    "last_name": "kanfasdffse",
+    "email": "fdfsdd@gmail.com",
+    "gender": "Femdfsdfale",
+    "job_title": "Nucldfsdfear Power Engineer"
+  },
+  {
+    "id": 46,
+    "first_name": "Karaasdjk-lynn",
+    "last_name": "kanljkljse",
+    "email": "daweaAS@gmail.com",
+    "gender": "Female",
+    "job_title": "Nuclsdszdear Power Engineer"
+  },
+  {
+    "id": 47,
+    "first_name": "Kaaahjra-lynn",
+    "last_name": "kanawehjkse",
+    "email": "QWJILd@gmail.com",
+    "gender": "FemAASDfgale",
+    "job_title": "Nucdfgdglear Power Engineer"
+  },
+  {
+    "id": 48,
+    "first_name": "Karsdfjhka-lynn",
+    "last_name": "kansdfl;e",
+    "email": "dFGHLJK;@gmail.com",
+    "gender": "Female",
+    "job_title": "Nugjhgjclear Power Engineer"
+  },
+  {
+    "id": 49,
+    "first_name": "Karakgh-lynn",
+    "last_name": "kadfgdfnse",
+    "email": "dsdfs@gmail.com",
+    "gender": "Female",
+    "job_title": "Nuclear sdfsdfPower Engineer"
+  },
+  {
+    "id": 50,
+    "first_name": "Kara-sdfsdlynn",
+    "last_name": "kadffsdnse",
+    "email": "ddfsfd@gmail.com",
+    "gender": "Fdfemadgfle",
+    "job_title": "dfdfg Power Engineer"
+  }
+
+]
